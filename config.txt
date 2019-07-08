@@ -1,6 +1,6 @@
-token=
-owner=ID 
-prefix=1
-game=type 1help
-stayinchannel=true
-songinstatus=true
+token=NTkzMTM2NTk1NDMxODUwMDI2.XRxxqA.FBDXiJd1D96pi_Sm4Vhv_xV7PuM
+owner=521350578727813151
+prefix=br
+game=Type brhelp
+stayinchannel= true
+songinstatus= false
